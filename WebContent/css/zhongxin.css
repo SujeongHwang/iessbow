@@ -1,0 +1,83 @@
+
+*{
+    background-color:#FCFCFC;
+  }
+.list-group-item{
+  
+}
+  a:link { 
+    color:#000; 
+    text-decoration:none; 
+  } 
+  a:visited { 
+    color:#000; 
+    text-decoration:none; 
+  } 
+  a:hover { 
+    color:#000000; 
+    text-decoration:none; 
+  } 
+  a:active { 
+    color:#000; 
+    text-decoration:none; 
+  } 
+
+  .name{
+    border-top-color:#43CD80;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+ 
+  }
+  .userna{
+    margin-top: -35px;
+    margin-left: 90px;
+    font-size: 10px;
+
+  }
+  .userpic{
+    margin-bottom: 0px;
+    margin-left: 5px;
+    width: 5px;
+    height: 5px;
+  }
+  .mn{
+    display: inline-block;
+    folat:left;
+    padding-left: 40px;
+    padding-right: 10px;
+    background-color: white;
+    vertical-align: middle;
+    width:20px;
+    height: 20px;
+    margin-bottom: 5px;
+  }
+  .mm{
+    display: inline-block;
+    background-color: white;
+    folat:right;
+    height: 10px;
+    line-height: 10px;
+    margin-right:100px;
+
+  }
+  .m{
+    background-color: white;
+    padding:5px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 10px;
+  }
+  .n{
+  border: 1px solid #ddd;
+  }
+  .black{
+    height: 10px;
+    background-color:#FFFAFA;
+    border-top-color:#BEBEBE;
+    
+  }
+  h5.header-header{
+   background-color:#FFFAFA;
+  }

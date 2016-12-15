@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/login.jsp=UTF-8
+encoding//src/com/lmmf/course/lbt/controller/LunBoTuController.java=UTF-8
+encoding//src/com/lmmf/course/student/controller/StudentController.java=UTF-8
+encoding//src/com/lmmf/course/student/dao/StudentDaoImpl.java=UTF-8
+encoding//src/com/lmmf/course/student/service/StudentServiceImpl.java=UTF-8
